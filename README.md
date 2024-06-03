@@ -11,3 +11,7 @@
 ## The Savings acount PY file instantiates Savings Account and calculates the interest
 ## The Savings Account API updates the balance ( the balance after the maturity) ( i.e. deposity balance and interest earned)
 ## The Savings Account API prints the balance after the maturity and interest earned durng the maturity
+
+# To run the file run py customer_banking.py file 
+# It asks balance, interest rate in % and maturity month of deposity
+# it returns the list is requested on the course provides the balance after interest earned and total interest earned.
